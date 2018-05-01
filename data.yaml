@@ -1,24 +1,22 @@
 ---
-update_time: '2017.08.06'
-name: 张睿武
-nickname: xiao555
-meta_content: 大三前端狗，HR姐姐们把我招到碗里去吧
-keywords: xiao555,前端,工作,简历
-ga_id: 'UA-92595311-1'
-age: 22岁
-gender: 男
-school: 西安电子科技大学
-profession: 软件工程
-grade: 大四
+update_time: '2018.05.01'
+name: 徐营林
+nickname: 小满
+meta_content: 求伯乐
+keywords: 营林徐,前端,工作,简历
+ga_id: ''
+age: 26岁
+gender: 女
+school: 武汉软件工程大学
+profession: 计算机信息管理
+grade: 毕业
 english_level: CET-6
-blog: https://www.xiao555.com.cn
-github: https://www.github.com/xiao555
+github: https://www.github.com/yinglinxu
 website: 
-online: https://xiao555.github.io/Resume/
-print: https://xiao555.github.io/Resume/print.html
+online: https://yinglinxu.github.io/Resume/
+print: https://yinglinxu.github.io/Resume/print.html
 apply_to_position: Web前端工程师
 description: !!md |
-  我叫张睿武，西电软件学院大四学生，现在在腾讯TEG实习，负责前端开发。自学web前端，后端Node.js，PHP 也略知一二。能折腾，喜欢在实践中学习，学Vue的时候就是看两天文档，然后直接用在写个人博客上，在不断的跳坑脱坑中进步。希望在工作中能应用到自己所学的东西，跟产品一同成长。
 contact: # 联系方式
   -
     icon: fa-envelope
